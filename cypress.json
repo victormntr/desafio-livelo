@@ -1,0 +1,7 @@
+{   
+  "testFiles": "**/*.{feature,features}",
+  "pluginsFile": "cypress/plugins/index.js",
+  "supportFile": "cypress/support/index.js",
+  "defaultCommandTimeout": 90000,
+  "pageLoadTimeout": 90000
+}
